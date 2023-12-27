@@ -1,4 +1,4 @@
-const { trace_memory } = require('../lib/trace_memory')
+const { trace_memory } = require('../lib/js/trace_memory')
 
 // > node --stack-size=65500 main.js
 
